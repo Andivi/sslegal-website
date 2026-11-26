@@ -63,13 +63,10 @@ With no form service set up, the form opens the visitor's email app with their r
 
 ## Before launch
 
-- [ ] **Logo:** replace `assets/img/sslegal-logo.png` (82 px) with the original vector logo, or a large PNG of at least 400 px.
-- [ ] **Photos:** replace the portraits in `assets/img/` with the original high-resolution files. Keep the same file names.
-- [ ] **Profiles to confirm:**
-  - Bassing Ali Kamaldeen: LL.B. institution and LL.M. status.
-  - Dr Abdul Razak Sania: title and Ghana Bar Association membership while in professional training.
-  - Nana Akwasi Asafo-Adjei: the Cornell fellowship listed on the current website (left out here).
-- [ ] **WhatsApp:** confirm which number receives WhatsApp messages. It is currently +233 24 447 6615, set in `FIRM['whatsapp']`.
+- [ ] **Logo:** replace `assets/img/sslegal-logo.png` (82 px, the only copy on the current website) with the original vector logo, or a large PNG of at least 400 px.
+- [ ] **Photos:** the portraits are the largest copies on the current website (about 500 px wide). Replace them with the original high-resolution files, keeping the same file names.
+- [ ] **One profile detail to confirm:** Bassing Ali Kamaldeen's page on the current website gives two versions of his education. This site follows his biography: LL.B. from Wisconsin International University College, and LL.M. in Energy Law in progress. His education list instead says LL.B. and LL.M. from the University of Ghana. The other profiles match the current website.
+- [ ] **WhatsApp:** the current website doesn't say which number uses WhatsApp. This site uses +233 24 447 6615 (Richmond's direct line), set in `FIRM['whatsapp']`. Confirm, or change it there.
 - [ ] **Wording:** approve the new opening line, practice summaries, the "Working with us" steps and the privacy notice.
 - [ ] **Form:** decide between the email hand-off and a form service (see above).
 - [ ] **Current site:** until the switch, unpublish the WordPress theme's demo pages (Shop, Cart, Checkout, Pricing Tables, Sample Page and others), and update the © 2017 footer and the broken Twitter link.

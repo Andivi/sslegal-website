@@ -87,11 +87,11 @@ PEOPLE = {
         areas=['litigation', 'corporate', 'infrastructure'],
         extra_chips=['Constitutional law'],
         edu=[('Qualifying Certificate in Law', 'Ghana School of Law'), ('Bachelor of Laws (LL.B.)', 'University of Ghana')],
-        member=[('Ghana Bar Association', 'Member')]),
+        member=[('Ghana Bar Association', 'Member'), ('Cornell Institute for African Development', 'Fellow')]),
     'abdul-razak-sania': dict(
         name='Dr Abdul Razak Sania', short='Dr Abdul Razak Sania, Esq.', first='Dr Abdul Razak', em='Sania, Esq.', call='Dr Sania',
         img='abdulrazak-sania.jpg', w=500, h=606, studio=False,
-        role='Lawyer &amp; Development Practitioner', card_role='Lawyer &amp; Development Practitioner',
+        role='Lawyer, Development Practitioner &amp; Agribusiness Consultant', card_role='Lawyer &amp; Development Practitioner',
         card_text='Law and development, governance reform, enterprise growth and agricultural value chains.',
         card_cred='PhD Development Studies, University of Cape Coast',
         lead='Dr Sania works where law meets governance and socio-economic development, drawing on senior experience in commodities, agribusiness and enterprise.',
@@ -108,7 +108,7 @@ PEOPLE = {
              ('MBA, Project Management', 'Wisconsin International University College'), ('MA, Ministry (Biblical Studies)', 'Trinity Theological Seminary'),
              ('Bachelor of Laws (LL.B.)', 'Wisconsin International University College'), ('Qualifying Certificate in Law', 'Ghana School of Law'),
              ('Certificate in Energy and Commodity Finance', 'National Banking College'), ('B.Sc., Agriculture', 'Kwame Nkrumah University of Science and Technology')],
-        member=[]),
+        member=[('Ghana Bar Association', 'Member')]),
     'bassing-ali-kamaldeen': dict(
         name='Bassing Ali Kamaldeen', short='Bassing Ali Kamaldeen, Esq.', first='Bassing Ali', em='Kamaldeen, Esq.', call='Bassing',
         img='bassing-kamaldeen.jpg', w=500, h=606, studio=False,
@@ -127,7 +127,7 @@ PEOPLE = {
         edu=[('LL.M., Energy Law (in progress)', 'University of Ghana'), ('Qualifying Certificate in Law', 'Ghana School of Law, Makola'),
              ('MA, Economic Policy Management', 'University of Ghana'), ('Bachelor of Laws (LL.B.)', 'Wisconsin International University College'),
              ('BA, Sociology', 'Kwame Nkrumah University of Science and Technology'), ('Diploma, Social Work', 'School of Social Work, Osu')],
-        member=[]),
+        member=[('Ghana Bar Association', 'Member')]),
 }
 SUPPORT = ('Rachel Anum', 'Office Manager')
 
